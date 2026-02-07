@@ -1,0 +1,160 @@
+{
+  "book_id": "digital_native_metafictional_memory_identity",
+  "title": "The Memory Emporium",
+  "tagline": "In a world where memories are currency, one man discovers a ghost in the machine that could rewrite his past.",
+  "target_words": 70000,
+  "actual_words": 74620,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Experience",
+    "Authenticity in a Copied World",
+    "The Trauma of Re-Living",
+    "Digital Ghosts and Errant Data"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Taste of Lipstick",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Ghost in The Quarry",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "Metadata of the Self",
+      "words": 2800
+    },
+    {
+      "ch": 4,
+      "title": "The First Client",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Eidetic's Promise",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Mena's Forensics",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Birth Memory Auction",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "A Corrupted File",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Nostalgia-Core Crowd",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "Tracing the Anomaly",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "The Pre-Natal Buffer",
+      "words": 2800
+    },
+    {
+      "ch": 12,
+      "title": "Silas's Own Ledger",
+      "words": 3400
+    },
+    {
+      "ch": 13,
+      "title": "A Memory That Isn't His",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "The Origin Collectors",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "Emotional Toll",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "The Somatic Imprint",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "Breaking the Halo",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "The Writer's Rental",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "Chad's Confession",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Fabricated Past",
+      "words": 3600
+    },
+    {
+      "ch": 21,
+      "title": "Anya's Choice",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Final Extraction",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "Context is Everything",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The Uncommon Memory",
+      "words": 3800
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character sells a seemingly mundane memory that later becomes a viral sensation, exploring the unintended consequences.",
+      "Create a memory-file 'corruption'—a glitch in a recorded experience—and describe its emotional and sensory impact on the user.",
+      "Develop a side story about an 'emotion-dampening therapist' who treats memory sellers, and the ethical dilemmas they face.",
+      "Imagine a black market for 'un-sanitized' historical memories, and a transaction that goes wrong."
+    ],
+    "technical": [
+      "Design a speculative UI/UX for a 'memory ledger' app that tracks sales, royalties, and emotional toll metrics.",
+      "Outline the architecture of a 'neural purity diagnostic' system that checks memory-files for tampering or embedded metadata."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Philip K. Dick",
+      "Ursula K. Le Guin",
+      "William Gibson",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A solitary man in a worn coat stands transfixed before a towering, ethereal data-archive of glowing, suspended memory-vials, his own hand reaching out to touch a specific vial that fractures like glass, releasing a spectral, digital ghost of a forgotten woman that intertwines with his own form, within the vast, cathedral-like interior of The Memory Emporium with its endless shelves of luminous memories and flickering data-streams flowing like rivers through the air, in the atmospheric and hauntingly detailed style of Simon Stålenhag and the luminous digital melancholy of Android Jones, book cover framing, centered and intimate portrait composition with a dramatic low-angle looking up at the towering archive, cinematic volumetric lighting with a dual color palette of cold, sterile electric blues and data-greens contrasting with the warm, fragile amber and gold of the escaping memory-ghost, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
