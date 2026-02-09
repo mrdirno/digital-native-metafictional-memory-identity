@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The first memory I ever sold was the taste of my mother’s lipstick.
+ArchiveCorp flagged the anomaly first: a seventeen-second gap in my indexed life where the city grid showed traffic but my feeds showed static. My own memory insisted on breakfast. The system insisted on nothing.
+
+
 
 It wasn’t a big-ticket item. Not like a first kiss or a car crash. It was a fragment, a thirty-second loop of sensory data: the waxy, chemical cherry of her lipstick on the rim of a coffee mug, the faint transfer of it onto my forehead when she kissed me goodbye for kindergarten, the way it smelled in the heat of her compact when she reapplied it at stoplights. I was nineteen, broke, and the guy at the Memory Emporium—a converted nail salon that smelled of acetone and regret—said these “ambient maternal textiles” were moving well with the nostalgia-core crowd. He offered me eighty credits.
 
